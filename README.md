@@ -1,10 +1,10 @@
-# Project Title
+# FastAPI Serverless
 
 This project is a FastAPI-based application that provides an endpoint to invoke functions dynamically. It includes a sample function to demonstrate how to handle events and context.
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [FastAPI Serverless](#fastapi-serverless)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
