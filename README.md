@@ -25,7 +25,7 @@ This project is a FastAPI-based application that provides an endpoint to invoke 
 
 1. Start the FastAPI server:
     ```sh
-    uvicorn runner.routes.invoke:router --reload
+    uvicorn main:app --reload
     ```
     ```sh
     python main.py
